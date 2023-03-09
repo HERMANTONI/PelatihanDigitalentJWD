@@ -22,7 +22,7 @@
                         <td><?php echo $result['pengarang'];?></td>
                         <td><?php echo $result['penerbit'];?></td>
                         <td><?php echo $result['status'];?></td>
-                        <td><a href="" class="btn btn-warning">Edit</a>
+                        <td><a href="index.php?page=adm_edit_buku&id=<?php echo $result['id_buku'] ?>" class="btn btn-warning">Edit</a>
                             <a href="" class="btn btn-danger">Hapus<a/></td>
                     </tr>
                 <?php

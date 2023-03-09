@@ -1,0 +1,8 @@
+Edit VSCode Permission Debian : 
+# sudo usermod -aG www-data $USER
+# su $USER
+# id
+# sudo chmod -R ug+rw /var/www/html
+# sudo chown -R www-data:www-data /opt/lampp/htdocs
+Restart VSCode
+

@@ -186,6 +186,9 @@
 					elseif ($halaman == "adm_tambah_buku"){
 						include "page/adm_tambah_buku.php";	
 					}
+					elseif ($halaman == "adm_edit_buku"){
+						include "page/adm_edit_buku.php";	
+					}
 					elseif (!file_exists("page/$halaman.php")){
 						echo "halaman tidak ditemukan";
 					}

@@ -1,6 +1,6 @@
 # PelatihanDigitalentJWD
 
-
+<div>
 spec device: 
 processor       : Intel® Core™ i5-3210M CPU @ 2.50GHz × 4
 graphic         : Mesa Intel® HD Graphics 4000 (IVB GT2)
@@ -16,4 +16,6 @@ php ver         : PHP Version 8.1.10
 apache ver      : Apache/2.4.54 (Unix) OpenSSL/1.1.1q PHP/8.1.10 mod_perl/2.0.12 Perl/v5.34.1
 apache api      : Apache API Version	20120211
 server software : Apache/2.4.54 (Unix) OpenSSL/1.1.1q PHP/8.1.10 mod_perl/2.0.12 Perl/v5.34.1
+  
+</div>
 
